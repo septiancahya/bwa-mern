@@ -58,13 +58,13 @@ export default function Button(props) {
   }
 
   return (
-    <Button
+    <button
       href={props.href}
       className={className.join(" ")}
       style={props.style}
     >
       {props.children}
-    </Button>
+    </button>
   );
 }
 
