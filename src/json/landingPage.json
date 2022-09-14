@@ -1,0 +1,170 @@
+{
+    "hero": {
+        "travelers": 80000,
+        "treasure": 821,
+        "cities": 1212
+    },
+    "mostPicked": [{
+            "_id": "asd1293uasdads1",
+            "name": "Waldorf Astoria",
+            "type": "Apartment",
+            "imageUrl": "/images/img-most-picked-1.jpg",
+            "country": "Maldives",
+            "city": "Male",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Lopinot Historical",
+            "type": "Hotel",
+            "imageUrl": "/images/img-most-picked-2.jpg",
+            "country": "Trinidad and Tobago",
+            "city": "Lopinot",
+            "price": "17",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Phu Petra Resort",
+            "type": "House",
+            "imageUrl": "/images/img-most-picked-3.jpg",
+            "country": "Thailand",
+            "city": "Aa Nang",
+            "price": "25",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Garden of the Richard",
+            "type": "Apartment",
+            "imageUrl": "/images/img-most-picked-4.jpg",
+            "country": "USA",
+            "city": "New York",
+            "price": "32",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Beach Club",
+            "type": "Hotel",
+            "imageUrl": "/images/img-most-picked-5.jpg",
+            "country": "Indonesia",
+            "city": "Bali",
+            "price": "29",
+            "unit": "night"
+        }
+    ],
+    "categories": [{
+            "_id": "asd1293uasdads1",
+            "name": "House with beauty backyard",
+            "items": [{
+                    "_id": "asd1293uasdads1",
+                    "name": "New Golden Park",
+                    "imageUrl": "/images/img-category-1.jpg",
+                    "country": "Indonesia",
+                    "city": "Surabaya",
+                    "isPopular": true
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Kingdom Imperial",
+                    "imageUrl": "/images/img-category-2.jpg",
+                    "country": "Malaysia",
+                    "city": "Kuala Lumpur",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Tiny House",
+                    "imageUrl": "/images/img-category-3.jpg",
+                    "country": "Vietnam",
+                    "city": "Hanoi",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Tobby Town",
+                    "imageUrl": "/images/img-category-4.jpg",
+                    "country": "Singapore",
+                    "city": "Tampines",
+                    "isPopular": false
+                }
+            ]
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Apartments with kitchen set",
+            "items": [{
+                    "_id": "asd1293uasdads1",
+                    "name": "Star Patrick",
+                    "imageUrl": "/images/img-category-5.jpg",
+                    "country": "UK",
+                    "city": "London",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Sweat Pearl",
+                    "imageUrl": "/images/img-category-6.jpg",
+                    "country": "Austria",
+                    "city": "Wina",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Krusty Air",
+                    "imageUrl": "/images/img-category-7.jpg",
+                    "country": "Jenewa",
+                    "city": "Swiss",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Big Top",
+                    "imageUrl": "/images/img-category-8.jpg",
+                    "country": "Belgium",
+                    "city": "Brussel",
+                    "isPopular": true
+                }
+            ]
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Hotels with large living room",
+            "items": [{
+                    "_id": "asd1293uasdads1",
+                    "name": "Pine forests",
+                    "imageUrl": "/images/img-category-9.jpg",
+                    "country": "Indonesia",
+                    "city": "Bandung",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Five Or Six",
+                    "imageUrl": "/images/img-category-10.jpg",
+                    "country": "Australia",
+                    "city": "Melbourne",
+                    "isPopular": true
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Suite Oasis",
+                    "imageUrl": "/images/img-category-11.jpg",
+                    "country": "South Korea",
+                    "city": "Jeju",
+                    "isPopular": false
+                },
+                {
+                    "_id": "asd1293uasdads1",
+                    "name": "Potato Chips",
+                    "imageUrl": "/images/img-category-12.jpg",
+                    "country": "South Korea",
+                    "city": "Gangnam",
+                    "isPopular": false
+                }
+            ]
+        }
+    ]
+}
